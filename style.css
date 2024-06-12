@@ -22,6 +22,12 @@ html, body {
   line-height: 1;
 }
 
+#weekday {
+  font-size: 8rem;
+  text-align: center;
+  color: #900;
+}
+
 #date {
   font-size: 8rem;
   text-align: center;
