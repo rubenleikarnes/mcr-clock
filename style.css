@@ -1,0 +1,37 @@
+html, body {
+  height: 100%;
+  font-family: monospace;
+  background: #131313;
+}
+
+.flex-container {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.row {
+  width: auto;
+}
+
+.flex-item {
+  width: auto;
+  height: auto;
+  line-height: 1;
+}
+
+#date {
+  font-size: 8rem;
+  text-align: center;
+  color: #900;
+}
+
+#time {
+  font-size: 25rem;
+  text-align: center;
+  font-weight: bold;
+  color: #f00;
+}
